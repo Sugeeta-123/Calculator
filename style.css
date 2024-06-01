@@ -1,0 +1,26 @@
+body{
+
+    text-align: center;
+    background-image:linear-gradient(pink,rgb(37, 119, 138));
+}
+input{
+    text-align: center;
+
+}
+button{
+background-color:rgb(37, 119, 138);
+color:pink ;
+padding: 10px;
+border-radius: 10px;
+font-weight: bold;
+
+}
+
+h1{
+    background-image: linear-gradient(purple, teal);
+    width: "70%";
+    top:0;
+    text-shadow: 3px 3px 3px grey;
+    color:white;
+    border-radius: 10px;
+}
